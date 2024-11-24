@@ -1,0 +1,36 @@
+ <!DOCTYPE html>
+ <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width">
+      <title>Home</title>
+    </head>
+
+    <body>
+      <header>
+         <h1>Home</h1>
+         <img src="images/logo.jpg" alt="Arsema Abayneh">
+      </header>
+      <nav>
+         <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li><a href="About_Me.html">About Me</a></li>
+            <li><a href="Hobbies.html">Hobbies</a></li>
+            <li><a href="Education.html">Education</a></li>
+            <li><a href="CV.html">CV</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+         </ul>
+      </nav>
+     
+         <main>
+        <h2>HELLO AND WELCOME TO MY PAGE!</h2>
+        <img src="images/PICTURE1.JPG" alt="Arsema">
+        <P> ARSEMA ABAYNEH WORKU, JUNIOR DEVELOPER</P>
+         <img src="images/TECH3.JPG" alt="TECH">
+        <p>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." — Patrick McKenzie</p>
+  </main>
+      <footer>
+         <img src="images/LOGO.JPG" alt="logo"> <p> ARSEMA ABAYNEH </p>
+      </footer>
+          </body>
+</html>
