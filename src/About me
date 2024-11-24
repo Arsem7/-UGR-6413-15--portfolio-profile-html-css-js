@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+ <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width" >
+      <title>About Me</title>
+    </head>
+    <body>
+      <header>
+         <h1>About Me</h1>
+         <img src="images/logo.jpg" alt="Arsema Abayneh">
+      </header>
+      <nav>
+         <ul>
+          <li><a href="Home.html">Home</a></li>
+          <li><a href="About_Me.html">About Me</a></li>
+          <li><a href="Hobbies.html">Hobbies</a></li>
+          <li><a href="Education.html">Education</a></li>
+          <li><a href="CV.html">CV</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+         </ul>
+      </nav>
+      <main>
+        <p>Hi! I'm Arsema Abayneh, a junior Software engineering student at Addis Ababa University.  </p>
+        <figure>
+            <video width="50" height="50">
+                <source src="images/video.mp4" type="video/mp4" >
+              </video>
+            <figcaption></figcaption>
+        </figure>
+        <p>I'm deeply passionate about software development and aspire to be the best in my field.</p>
+        <img src="images/tech2.jpg" alt="me">
+        </main>
+        <footer>
+           <img src="images/logo.jpg" alt="logo"> <p>ARSEMA ABAYNEH </p>
+        </footer>
+    </body>
+    </html>
