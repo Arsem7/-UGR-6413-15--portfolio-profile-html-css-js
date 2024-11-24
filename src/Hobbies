@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+ <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width">
+      <title>Hobbies</title>
+    </head>
+
+    <body>
+      <header>
+         <h1>Hobbies</h1>
+         <img src="images/logo.jpg" alt="Arsema Abayneh">
+      </header>
+      <nav>
+         <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li><a href="About_Me.html">About Me</a></li>
+            <li><a href="Hobbies.html">Hobbies</a></li>
+            <li><a href="Education.html">Education</a></li>
+            <li><a href="CV.html">CV</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+         </ul>
+      </nav>
+      <main>
+        <p></p>
+        <ul>
+            <li><p>I enjoy taking online courses related to web development and pushing my limits everyday.</p></li>
+            <li><p>I also love listening to music. It inspires me to be creative and expressive at what I do.</p></li>
+            <li><p>I love traveling and outdoor activities, The sun makes me feel alive!</p></li>
+        </ul>
+        <figure>
+         <img src="images/Favorite_Artist.jpg" alt="artist">
+         <figcaption>One of my favorite Artists out there!</figcaption>
+        </figure>
+        <figure>
+        <img src="images/Sunsets.jpg" alt="sunsets">
+        <figcaption>Sharing my love for sunsets!</figcaption>
+        </figure>
+        <p>I'm always down for any adventure and challenge as I believe they will increase my creativity and critical thinking.  </p>
+        <p>"Coding is my journey, and every bug I squash is a step towards mastery."</p>
+      </main>
+            <footer>
+               <img src="images/logo.jpg" alt="logo"> <p> ARSEMA ABAYNEH </p>
+            </footer>
+    </body>
+    </html>
+    
+            
